@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(41, 13, 68);
+    color: white;
+    text-align: center;
+}
+input{
+    padding: 15px;
+    width: 30%;
+    margin: 10px;
+}
+#form2{
+    display: none;
+}
+#form3{
+    display: none;
+}
+#form1, #form2, #form3{
+    
+}
+#btn1, #btn2, #btn3, #btn4, #btn5{
+    width: 10%;
+}
+#error, #error1, #error2, #error3, #error4, #error5, #error6, #error7{
+    display: none;
+    color: red;
+}
